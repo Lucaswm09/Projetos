@@ -71,7 +71,18 @@ A organização então solicitou que o usuário researcher2 possuísse acesso ao
 <br />
 O comando a seguir demonstra como segui com a solicitação:
 <br />
-<a href="https://imgur.com/gqppDIk"><img src="https://i.imgur.com/gqppDIk.png" title="source: imgur.com" /></a>
+<br />
+<a href="https://imgur.com/OtyelLS"><img src="https://i.imgur.com/OtyelLS.png" title="source: imgur.com" /></a>
+<br />
+<br />
+As primeiras duas linhas mostram o meu input, e as outras o output. Primeiramente, utilizei o chmod para remover a permissão de execução do grupo. O usuário researcher2 já possuía permissão para executar, portanto não foi necessário adicioná-lo na linha de comando.
+<br />
+<br />
+<br />
+<b>Sumário</b>
+<br />
+Conforme fora solicitado pela organização para realizar alterações de permissões, eu conduzi a ordem realizando as alterações solicitadas nos arquivos e diretórios do projects. O primeiro passo é utilizar o ls - la para checar as permissões estabelecidas. Com essa informação, o segundo passo é utilizar o chmod para seguir com a mudança nas permissões solicitadas para cada arquivo e diretório. Na segurança da informação, este é um recurso importante quando seguido o princípio do menor privilégio, que consiste em que o indivíduo possua acesso apenas ao que é absolutamente necessário.
+
 
 
 
