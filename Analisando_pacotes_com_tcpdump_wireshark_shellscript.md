@@ -3,7 +3,7 @@
 
 
 <h2>Descrição</h2>
-O atual projeto foi elaborado como atividade no processo de obtenção do certificado Analyze Network Traffic with tcpdump (Coursera). Há a suspeita de que alguém está tentando inicar sessões SSH em minha estação de trabalho, então decidi estabelecer um shell script de vigilância para capturar qualquer tráfego TCP através do SSH
+O atual projeto foi elaborado como atividade no processo de obtenção do certificado Analyze Network Traffic with tcpdump (Coursera). Há a suspeita de que alguém está tentando inicar sessões SSH em minha estação de trabalho, então decidi estabelecer um shell script de vigilância para capturar qualquer tráfego TCP através do SSH.
 
 <h2>Linguagem ou Utilidades</h2>
 
