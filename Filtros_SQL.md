@@ -57,7 +57,7 @@ segunda condição é login_date = '2022-05-08', que filtra logins em 2022-05-08
 <br />
   <b>Identificar tentativas de login fora do México</b><br />
 Depois de investigar os dados da organização sobre tentativas de login, levantou-se a suspeita de que algo
-está acontecendo com tentativas de login fora do Méxicom, portanto devem ser investigadas.<br /><br />
+está acontecendo com tentativas de login fora do México, portanto devem ser investigadas.<br /><br />
 O código a seguir demonstra como criei uma SQL query para filtrar tentativas de login que ocorreram
 fora do México.
 <br />
