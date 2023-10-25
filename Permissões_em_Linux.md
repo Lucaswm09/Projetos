@@ -21,7 +21,7 @@ O atual projeto foi elaborado como atividade no processo de obtenção do certif
 <b>Checar detalhes do arquivo e diretórios</b><br/>
   O código seguinte demonstra como utilizei os comandos do Linux para entender as permissões previamente estabelecidas no diretório requisitado.<br />
 <br />
-<a href="https://imgur.com/9eHoWs9"><img src="https://i.imgur.com/9eHoWs9.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/QNwxnbq"><img src="https://i.imgur.com/QNwxnbq.png" title="source: imgur.com" /></a>
 <br />
 <br />
   A primeira linha da screenshot mostra o comando que realizei, e as outras linhas mostram o resultado que é todo o conteúdo dentro do diretório projects. Eu utilizei o comando ls com adição do -la para mostrar detalhadamente os arquivos dentro do diretório incluindo os arquivos secretos. O resultado do meu comando indica que há um diretório chamado drafts, um arquivo secreto chamado .project_x.txt, além de outros cinco arquivos. Os 10 caractéres strings que aparecem na primeira coluna representam as permissões para cada arquivo e diretório.
